@@ -93,10 +93,7 @@
 		{ "id": 30, "data_pagamento": "2022/04/01", "funcionario":   8, "verba":   5, "base": 7000.00, "valor":  770.00 },
 		{ "id": 31, "data_pagamento": "2022/04/01", "funcionario":   8, "verba":   6, "base": 7000.00, "valor": 1750.00 },
 		{ "id": 32, "data_pagamento": "2022/04/01", "funcionario":   8, "verba":  10, "base": 7000.00, "valor":  560.00 }
-	],
-	"profile": {
-	    "name": "typicode"
-	}
+	]
 }
 
 
