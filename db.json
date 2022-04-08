@@ -93,9 +93,6 @@
 		{ "id": 30, "dt_pgto": "2022/04/01", "funcionario":   8, "verba":   5, "valor":  770.00 },
 		{ "id": 31, "dt_pgto": "2022/04/01", "funcionario":   8, "verba":   6, "valor": 1750.00 },
 		{ "id": 32, "dt_pgto": "2022/04/01", "funcionario":   8, "verba":  10, "valor":  560.00 }
-	],
-	"profile": {
-	    "name": "typicode"
 	}
 }
 
